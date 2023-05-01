@@ -68,3 +68,8 @@ tutorials and working on personal projects.
 ![](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)
 
 ![](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
+
+<h2 align="center"> 💬 You can find me here </h2>
+
+[![linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/rebeccatinchon/)
+
