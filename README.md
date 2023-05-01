@@ -3,7 +3,7 @@
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/58392030/235515296-8d99eb23-ec11-425f-8be2-29d2f58c0290.gif" alt="programming frog" width="15%" align="right"/>
+<img src="https://user-images.githubusercontent.com/58392030/235515296-8d99eb23-ec11-425f-8be2-29d2f58c0290.gif" alt="programming frog" width="20%" align="right"/>
 
 <br/>
 
