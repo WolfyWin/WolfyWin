@@ -1,21 +1,8 @@
 
 <h1 align="center">💫 About Me </h1>
 
-<br/>
-
-<img src="https://user-images.githubusercontent.com/58392030/235515296-8d99eb23-ec11-425f-8be2-29d2f58c0290.gif" alt="programming frog" width="20%" align="right"/>
-
-<br/>
-
- 🌌 Hello, i'm Rébecca and I am a French web developer!
-
- 👨‍💻 Currently I am a full stack developer at Claroline.
-
- 👩‍🚀 I'm passionate and very creative.
+ ![aboutMe](https://user-images.githubusercontent.com/58392030/235613351-502f6ea8-2171-4680-a4c7-03a72d998d76.png)
  
-📖 Outside of work, I like to keep learning by following online 
-tutorials and working on personal projects.
-
 <br/>
 <br/>
 
@@ -72,4 +59,3 @@ tutorials and working on personal projects.
 <h2 align="center"> 💬 You can find me here </h2>
 
 [![linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/rebeccatinchon/)
-
