@@ -59,3 +59,7 @@
 <h2 align="center"> 💬 You can find me here </h2>
 
 [![linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/rebeccatinchon/)
+
+<h2 align="center"> 📃 Curriculum vitæ </h2>
+
+[rebecca_tinchon_cv.pdf](https://github.com/WolfyWin/WolfyWin/files/11444147/rebecca_tinchon_cv.pdf)
