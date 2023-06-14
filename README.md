@@ -10,7 +10,7 @@
 
 <br/>
 
-- ⚔️ [Code Heroes](https://codeheroes.skullbot.fr/) : E-learning RPG site in PHP/Symfony.
+- ⚔️ [Code Heroes](https://codeheroes.wolfyweb.fr/) : E-learning RPG site in PHP/Symfony.
 
 - 🐙 Cthulhu game : Tic-tac-toe game in the Lovecraft universe using React, Redux, PHP and Symfony.
 
