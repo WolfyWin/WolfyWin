@@ -3,10 +3,6 @@
 
 ![about](https://github.com/WolfyWin/WolfyWin/assets/58392030/efba366f-c952-4126-a1df-09331b7d9dc9)
 
- 
-<br/>
-<br/>
-
 <h2 align="center"> 🚀 Achievements </h2>
 
 <br/>
