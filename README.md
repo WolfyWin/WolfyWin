@@ -1,7 +1,8 @@
 
 <h1 align="center">💫 About Me </h1>
 
- ![aboutMe](https://user-images.githubusercontent.com/58392030/235613351-502f6ea8-2171-4680-a4c7-03a72d998d76.png)
+![about](https://github.com/WolfyWin/WolfyWin/assets/58392030/efba366f-c952-4126-a1df-09331b7d9dc9)
+
  
 <br/>
 <br/>
@@ -64,4 +65,4 @@
 
 <h2 align="center"> 📃 Curriculum vitæ </h2>
 
-[rebecca_tinchon_cv.pdf](https://github.com/WolfyWin/WolfyWin/files/11444147/rebecca_tinchon_cv.pdf)
+[cv.pdf](https://github.com/WolfyWin/WolfyWin/files/11884914/cv.pdf)
